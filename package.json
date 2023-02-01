@@ -16,6 +16,6 @@
     "graphql": "^15.5.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-token": "^1.0.9",
-    "mongoose": "^5.12.7"
+    "mongoose": "^5.13.15"
   }
 }
